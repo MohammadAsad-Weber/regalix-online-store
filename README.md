@@ -1,8 +1,37 @@
-# React + Vite
+# E-commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an e-commerce application built using Redux Toolkit. It provides a seamless shopping experience with features like product listing, cart management, and order processing.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/e-commerce.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd e-commerce
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+    ```bash
+    npm run dev
+    ```
+2. Open your browser and navigate to `http://localhost:5173`.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
